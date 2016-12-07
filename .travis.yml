@@ -6,6 +6,7 @@ python:
   - "3.5"
 # command to install dependencies
 install: 
+  - pip install git+https://github.com/ttimbers/python_convertemp.git
   - pip install -U pytest
 # command to run tests
 script: pytest
