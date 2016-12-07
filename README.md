@@ -2,6 +2,9 @@
 created by Tiffany Timbers
 2016-12-06
 
+[![Build Status](https://travis-ci.org/ttimbers/python_convertemp.svg?branch=master)](https://travis-ci.org/ttimbers/python_convertempm)
+
+
 Simple python package/distribution example that uses [pytest](http://doc.pytest.org/en/latest/contents.html)
 
 ### To install package:
