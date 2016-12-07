@@ -12,6 +12,14 @@ Simple python package/distribution example that uses [pytest](http://doc.pytest.
 pip install git+https://github.com/ttimbers/python_convertemp.git
 ```
 
+### Example of usage in Python:
+```
+from convertemp.convertemp import fahr_to_kelvin
+
+fahr_to_kelvin(32)
+```
+
+
 ### To run tests:
 1. clone repo
 2. install pytest (`pip install -U pytest`)
